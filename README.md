@@ -1,11 +1,4 @@
+# CRM M2
 
-  # CRM Profissional para M2 Cortes
-
-  This is a code bundle for CRM Profissional para M2 Cortes. The original project is available at https://www.figma.com/design/zwcjPYl8FzQBz3lZtrfjTB/CRM-Profissional-para-M2-Cortes.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Projeto frontend do CRM da M2 — gerado a partir de design (Figma).  
+Built com: **Vite + React + TypeScript** e integrado ao **Supabase**.
